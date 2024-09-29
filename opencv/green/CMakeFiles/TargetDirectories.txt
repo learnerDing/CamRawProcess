@@ -1,0 +1,3 @@
+/home/dkernel/scp/CamRawProcess/opencv/green/CMakeFiles/rebuild_cache.dir
+/home/dkernel/scp/CamRawProcess/opencv/green/CMakeFiles/Green.dir
+/home/dkernel/scp/CamRawProcess/opencv/green/CMakeFiles/edit_cache.dir

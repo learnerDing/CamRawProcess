@@ -1,0 +1,24 @@
+Driver Info:
+  Driver Name: tegra-video
+  Card Name: vi-output, imx219 7-0010
+  Bus info: platform:54080000.vi:0
+Device capabilities:
+  support video capture
+  support streaming i/o
+List device support video format:
+  { pixelformat = 'RG10', description = '10-bit Bayer RGRG/GBGB' }
+Stream Format Informations:
+ type: 1
+ width: 3264
+ height: 2464
+ pixelformat: 808535890
+ field: 1
+ bytesperline: 6528
+ sizeimage: 16084992
+ colorspace: 8
+ priv: 4276996862
+camera->start: start capture
+camera->stop: stop capture
+camera->exit: camera exit
+Failed to exit camera
+camera->exit: camera exit

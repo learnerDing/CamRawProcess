@@ -1,0 +1,63 @@
+.
+├── 1.raw
+├── a.out
+├── app.c
+├── build
+│   └── a.out
+├── CamRawProcess
+├── CMakeLists copy.txt
+├── CMakeLists.txt
+├── images
+├── include
+│   ├── camera
+│   ├── processing
+│   └── utils
+├── main.cpp
+├── Makefile
+├── opencv
+│   ├── CMakeLists.txt
+│   ├── Makefile
+│   ├── pic1.png
+│   ├── test
+│   └── test.cpp
+├── src
+│   ├── CMakeCache.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── Kernel
+│   ├── layer
+│   │   ├── camera
+│   │   │   ├── 1.raw
+│   │   │   ├── a.out
+│   │   │   ├── camera.cpp
+│   │   │   ├── v4l2_camera2.cpp
+│   │   │   ├── v4l2_camera.cpp
+│   │   │   └── v4l2_camera.h
+│   │   ├── CMakeLists.txt
+│   │   └── processing
+│   │       ├── AutoWhiteBalance.cpp
+│   │       ├── bitmap_image.hpp
+│   │       ├── CCM.cpp
+│   │       ├── CMakeCache.txt
+│   │       ├── cmake_install.cmake
+│   │       ├── CMakeLists.txt
+│   │       ├── Gamma.cpp
+│   │       ├── Hello
+│   │       ├── Makefile
+│   │       ├── Raw10toRaw8.cpp
+│   │       ├── rawscaler.cpp
+│   │       ├── RawScaler.cpp
+│   │       ├── rawscaler.h
+│   │       └── RawScaler.h
+│   ├── libv4l2_camera.a
+│   ├── Makefile
+│   └── utils
+│       ├── forward.cpp
+│       ├── forward.h
+│       ├── macro.h
+│       ├── string_utils.h
+│       ├── Tensor.h
+│       ├── util.cpp
+│       └── util.h
+├── test
+└── v4l2prtinfor.txt

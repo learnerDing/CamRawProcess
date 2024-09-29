@@ -1,0 +1,3 @@
+/home/dkernel/scp/CamRawProcess/test/opencvtest/CMakeFiles/rebuild_cache.dir
+/home/dkernel/scp/CamRawProcess/test/opencvtest/CMakeFiles/opencv_test.dir
+/home/dkernel/scp/CamRawProcess/test/opencvtest/CMakeFiles/edit_cache.dir
